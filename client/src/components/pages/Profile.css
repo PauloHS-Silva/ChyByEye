@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f8f9fa;
+  color: #333;
+  padding: 0;
+}
+
+.overall {
+  background-color: #f1faee;
+}
+.profile-card {
+  padding: 20px;
+}
+
+.logo {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  color: #e63946;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 10px 0;
+}
+
+.pic {
+  margin: 20px 100px 20px 20px;
+}
+.profile-section {
+  margin: 40px 40px 0px 20px;
+  text-align: center;
+}
+
+.profile-stats p,
+.rankings p {
+  margin: 5px 50px 20px 20px;
+}
+
+.edit-profile {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.edit-profile:hover {
+  background-color: #0056b3;
+}
+
+.u-flex {
+  display: flex;
+}
+.subContainer {
+  flex-grow: 2;
+  flex-basis: 1;
+}
