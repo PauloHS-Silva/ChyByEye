@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Cache and logs
+.cache/
+*.log
+
+# OS files
+.DS_Store
+
+# Ignore gh-pages temp repo
+node_modules/.cache/gh-pages/
