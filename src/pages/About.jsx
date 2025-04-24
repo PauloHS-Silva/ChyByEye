@@ -10,11 +10,7 @@ const About = () => (
       purposes.
     </p>
     <p>
-      <a
-        href="/ChyByEye/documentation.pdf"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      <a href="/documentation.pdf" target="_blank" rel="noopener noreferrer">
         Read the full documentation (PDF)
       </a>
     </p>

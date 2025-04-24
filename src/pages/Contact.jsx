@@ -6,7 +6,7 @@ const Contact = () => (
     <p>For suggestions, bug reports, or collaborations, please contact:</p>
     <ul>
       <li>Paul Draghis - MIT</li>
-      <li>Paulo Silva – MIT</li>
+      <li>Paulo Silva - MIT</li>
     </ul>
     <p>Email: <a href="mailto:pauloh@mit.edu">pauloh@mit.edu</a></p>
   </section>
